@@ -40,4 +40,29 @@ _Actualización del proyecto_
 ### Screenshot ⌨️
 __Splash__
 
-![alt text](https://raw.githubusercontent.com/edw-rys/salaCine/master/assets/img/splash.png)
+![alt text](https://raw.githubusercontent.com/edw-rys/salaCine/master/img/splash.png)
+
+
+__DASHBOARD__
+
+![alt text](https://raw.githubusercontent.com/edw-rys/salaCine/master/img/dashboard.png)
+
+__Crear Sala__
+
+![alt text](https://raw.githubusercontent.com/edw-rys/salaCine/master/img/crearsala.png)
+
+__Mostrar Sala__
+
+![alt text](https://raw.githubusercontent.com/edw-rys/salaCine/master/img/crearsala.png)
+
+__Mostrar Detalles de la Sala__
+
+![alt text](https://raw.githubusercontent.com/edw-rys/salaCine/master/img/mostrar_una_sala.png)
+
+__Reservar Sala__
+
+![alt text](https://raw.githubusercontent.com/edw-rys/salaCine/master/img/reservar_sala.png)
+
+__Mostrar Reservación__
+
+![alt text](https://raw.githubusercontent.com/edw-rys/salaCine/master/img/mostrar_reservacion.png)
